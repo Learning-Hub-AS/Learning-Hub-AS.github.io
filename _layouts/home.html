@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">{{ page.title }}</h1>
+
+  {{ content }}
+  <hr />
+
+  {{ site.categories.info_motorikk }}
+
+  {%- for s in site.categories.topic1 -%}
+
+  <h2>{{s.title}}</h2>
+  {{ s.content }}
+  {%- endfor -%}
+
+  {{ site.categories.info_sosial }}
+
+  {%- for s in site.categories.topic2 -%}
+
+  <h2>{{s.title}}</h2>
+  {{ s.content }}
+  {%- endfor -%}
+  {{ site.categories.info_omsorg }}
+  {%- for s in site.categories.topic3 -%}
+
+  <h2>{{s.title}}</h2>
+  {{ s.content }}
+  {%- endfor -%}
+
+</div>
