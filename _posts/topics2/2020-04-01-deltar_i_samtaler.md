@@ -4,6 +4,7 @@ title: 'Deltar i samtaler'
 date: 2021-04-30 14:41:55 +0200
 categories: topic2
 permalink: /info/t2/
+permalink: /info/t2s1/
 ---
 
 OM barnet deltar i samtaler gjennom å stille spørsmål og være engasjert, er informasjon lærer og
