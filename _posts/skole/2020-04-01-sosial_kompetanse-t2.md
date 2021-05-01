@@ -1,8 +1,8 @@
 ---
-layout: skole
+layout: skolepost
 title: 'Sosial kompetanse'
 date: 2021-04-30 14:41:55 +0200
-categories: skole_sosial
+categories: skole_t2
 author: 'Erlend Øverby'
 permalink: /skole/t2/
 ---

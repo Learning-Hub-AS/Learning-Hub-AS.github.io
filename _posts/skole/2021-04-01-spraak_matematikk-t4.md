@@ -1,9 +1,9 @@
 ---
-layout: skole
+layout: skolepost
 title: 'Egen omsorg'
 date: 2021-04-30 14:41:55 +0200
-categories: skole_omsorg
-permalink: /skole/t3/
+categories: skole_t4
+permalink: /skole/t4/
 ---
 
 Beskrivelse av Egen omsorg forteller skolen noe om hvordan barnet ser på seg selv. Dette er informasjon som er viktig fordi:

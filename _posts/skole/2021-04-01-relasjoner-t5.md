@@ -1,8 +1,8 @@
 ---
-layout: skole
+layout: skolepost
 title: 'Egen omsorg'
 date: 2021-04-30 14:41:55 +0200
-categories: skole_topic5
+categories: skole_t5
 permalink: /skole/t5/
 ---
 

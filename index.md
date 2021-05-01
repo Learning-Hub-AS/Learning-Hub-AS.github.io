@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Learning Hub AS - tjenester
+title: Learning Hub AS - informasjon om tjenesten for ansatte i barnehage
 layout: home
 permalink: /info/
 ---
