@@ -6,7 +6,9 @@ categories: topic5
 permalink: /info/t5s2/
 ---
 
-## Starter barnet med flere fra samme barnehage
+## Overskrift til:
+
+Starter barnet med flere fra samme barnehage
 
 ### Observasjoner
 
