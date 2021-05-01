@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">{{ page.title }}</h1>
+
+  {{ content }}
+  <hr />
+
+  {{ site.categories.skole_t1 }}
+
+  {%- for s in site.categories.skoletopic1 -%}
+
+  <h1>{{s.title}}</h1>
+  {{ s.content }}
+  {%- endfor -%}
+
+  {{ site.categories.skole_t2 }}
+
+  {%- for s in site.categories.skoletopic2 -%}
+
+  <h1>{{s.title}}</h1>
+  {{ s.content }}
+  {%- endfor -%}
+  {{ site.categories.info_t3 }}
+  {%- for s in site.categories.skoletopic3 -%}
+
+  <h1>{{s.title}}</h1>
+  {{ s.content }}
+  {%- endfor -%}
+
+  {{ site.categories.skole_t4 }}
+
+  {%- for s in site.categories.skoletopic4 -%}
+
+  <h1>{{s.title}}</h1>
+  {{ s.content }}
+  {%- endfor -%}
+
+  {{ site.categories.skole_t5 }}
+  {%- for s in site.categories.skoletopic5 -%}
+
+  <h1>{{s.title}}</h1>
+  {{ s.content }}
+  {%- endfor -%}
+
+
+</div>

@@ -2,8 +2,8 @@
 layout: post
 title: 'Egen omsorg'
 date: 2021-04-30 14:41:55 +0200
-categories: info_omsorg
-permalink: /info/t3/
+categories: info_t4
+permalink: /info/t4/
 ---
 
 Beskrivelse av Egen omsorg forteller skolen noe om hvordan barnet ser på seg selv. Dette er informasjon som er viktig fordi:
@@ -17,9 +17,9 @@ Nå du vurderer dette skal de vektlegge...
 - liste 1
 - liste 1
 
-### Hva brukes denne informasjonen til
+![Bilde av barn på blomstereng]({{site.url}}/assets/img/bilde1.jpg)
 
-![Bilde av barn på blomstereng]({{ site.url }}/assets/img/bilde1.jpg)
+### Hva brukes denne informasjonen til
 
 Denne informasjon brukes til.
 

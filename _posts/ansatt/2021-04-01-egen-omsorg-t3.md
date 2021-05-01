@@ -1,15 +1,12 @@
 ---
 layout: post
-title: 'Sosial kompetanse'
+title: 'Egen omsorg'
 date: 2021-04-30 14:41:55 +0200
-categories: info_sosial
-author: 'Erlend Øverby'
-permalink: /info/t2/
+categories: info_t3
+permalink: /info/t3/
 ---
 
-Sosial kompetanse sier noe om hvordan barnet forholder seg til selv, andre barn og foreldre.
-
-![Bilde av barn på blomstereng]({{ site.url }}/assets/img/bilde1.jpg)
+Beskrivelse av Egen omsorg forteller skolen noe om hvordan barnet ser på seg selv. Dette er informasjon som er viktig fordi:
 
 ### Observasjoner
 
@@ -21,6 +18,8 @@ Nå du vurderer dette skal de vektlegge...
 - liste 1
 
 ### Hva brukes denne informasjonen til
+
+![Bilde av barn på blomstereng]({{ site.url }}/assets/img/bilde1.jpg)
 
 Denne informasjon brukes til.
 

@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Learning Hub AS - tjenester
 layout: home
+permalink: /info/
 ---
 
 ## Bakgrunn om informasjon for en god skolestart

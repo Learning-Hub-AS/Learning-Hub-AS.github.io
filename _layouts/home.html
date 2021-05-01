@@ -8,7 +8,7 @@ layout: default
   {{ content }}
   <hr />
 
-  {{ site.categories.info_motorikk }}
+  {{ site.categories.info_t1 }}
 
   {%- for s in site.categories.topic1 -%}
 
@@ -16,18 +16,34 @@ layout: default
   {{ s.content }}
   {%- endfor -%}
 
-  {{ site.categories.info_sosial }}
+  {{ site.categories.info_t2 }}
 
   {%- for s in site.categories.topic2 -%}
 
   <h2>{{s.title}}</h2>
   {{ s.content }}
   {%- endfor -%}
-  {{ site.categories.info_omsorg }}
+  {{ site.categories.info_t3 }}
   {%- for s in site.categories.topic3 -%}
 
   <h2>{{s.title}}</h2>
   {{ s.content }}
   {%- endfor -%}
+
+  {{ site.categories.info_t4 }}
+
+  {%- for s in site.categories.topic4 -%}
+
+  <h2>{{s.title}}</h2>
+  {{ s.content }}
+  {%- endfor -%}
+
+  {{ site.categories.info_t5 }}
+  {%- for s in site.categories.topic5 -%}
+
+  <h2>{{s.title}}</h2>
+  {{ s.content }}
+  {%- endfor -%}
+
 
 </div>
