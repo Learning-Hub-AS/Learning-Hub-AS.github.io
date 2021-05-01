@@ -2,7 +2,7 @@
 layout: post
 title: 'Egen omsorg'
 date: 2021-04-30 14:41:55 +0200
-categories: info_omsorg
+categories: topic5
 permalink: /info/t5/
 ---
 

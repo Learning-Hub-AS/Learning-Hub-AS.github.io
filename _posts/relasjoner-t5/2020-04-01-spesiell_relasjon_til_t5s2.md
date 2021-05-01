@@ -2,7 +2,7 @@
 layout: post
 title: 'Er det noen i gruppen barnet har en spesielt god relasjon til?'
 date: 2021-04-30 14:41:55 +0200
-categories: topic3
+categories: topic5
 permalink: /info/t5s1/
 ---
 
