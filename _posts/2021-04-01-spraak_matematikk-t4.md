@@ -17,7 +17,7 @@ Nå du vurderer dette skal de vektlegge...
 - liste 1
 - liste 1
 
-![Bilde av barn på blomstereng]({{ site.url }}/assets/img/bilde1.jpg)
+![Bilde av barn på blomstereng]({{site.url}}/assets/img/bilde1.jpg)
 
 ### Hva brukes denne informasjonen til
 

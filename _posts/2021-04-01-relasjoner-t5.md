@@ -19,7 +19,7 @@ Nå du vurderer dette skal de vektlegge...
 
 ### Hva brukes denne informasjonen til
 
-![Bilde av barn på blomstereng](https://help.learning-hub.no/assets/img/bilde1.jpg)
+![Bilde av barn på blomstereng]({{site.url}}/assets/img/bilde1.jpg)
 
 Denne informasjon brukes til.
 
