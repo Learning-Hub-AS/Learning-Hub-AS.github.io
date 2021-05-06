@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: /hjelp/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">{{ page.title }}</h1>
+
+  {%- for s in site.categories.hjelpstyrer -%}
+
+  <h1>{{s.title}}</h1>
+
+
+  {{ s.content }}
+
+  {%- endfor -%}
+
+</div>
