@@ -3,7 +3,7 @@ layout: hjelp
 title: 'Ansatte som er ansvarlig for hvilke barn'
 date: 2021-04-30 14:41:55 +0200
 categories: hjelpstyrer
-permalink: /hjelp/styrer/employeetochildren/
+permalink: /hjelp/styrer/registeremployeetochildren/
 ---
 
 Her registrerer du ansatte som er ansvarlig for hvilke barn i gruppen.
