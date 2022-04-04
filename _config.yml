@@ -21,11 +21,11 @@
 title: Learning Hub AS
 email: post@learninghub.no  
 description: >- # this means to ignore newlines until "baseurl:"
-  Strukturert informasjonsflyt mellom barnehage og skole. Sikrer alle barn en bedre start på sitt livslange utdanningsløp
+ Strukturert informasjonsflyt mellom barnehage og skole. Sikrer alle barn en bedre start på sitt livslange utdanningsløp
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://help.learning-hub.no/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: learninghub
-github_username:  erlendoverby
+github_username: erlendoverby
 
 # Build settings
 theme: minima
